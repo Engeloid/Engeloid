@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Engeloid
 - 👀 I’m interested in games, crypto/block chain, computer vision and graphics
-- 🌱 I’m currently learning for a Master's degree in Computer Science 
-- 💞️ I’m looking to collaborate on block chain technology
+- 🌱 I’m currently learning how to employ LLMs to create agents for 
+- 💞️ I’m looking to collaborate on ML tasks or blockchain technology
 - 📫 How to reach me ...
 
 <!---
